@@ -6,3 +6,6 @@ aaa
 
 vvvv
 bbbb
+branch 안에서 변경한 내용
+merge 하기
+안녕하세요
