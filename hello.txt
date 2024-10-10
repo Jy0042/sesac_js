@@ -16,8 +16,4 @@ hello again
 
 또또 해봐!! practice again
 
-<<<<<<< HEAD
-conflict 
-=======
 컨플릭 심어두기
->>>>>>> 0258433b94fbd5bc6cb42f0937a12902dbc4e518
