@@ -8,6 +8,6 @@ CreatorDodo
 
 hello 아무거나 입력하는 중
 
-그렇다고 진짜 아무거나 입력하냐]
+그렇다고 진짜 아무거나 입력하냐
 
 hello again
