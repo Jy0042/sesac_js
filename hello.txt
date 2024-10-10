@@ -6,4 +6,4 @@ jy1
 
 CreatorDodo
 
-hello
+hello 아무거나 입력하는 중
