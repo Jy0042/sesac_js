@@ -1,3 +1,2 @@
-hello git
-goodbye git
-hihihi
+hello
+goodbye
