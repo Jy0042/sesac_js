@@ -4,3 +4,5 @@ goodbye git
 test 파일 변경해보기 by JC
 
 siuuuuuuuuuuuu@@@@@@@@
+
+또 변경합니다 conflict 내보기
